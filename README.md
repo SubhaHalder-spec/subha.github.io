@@ -1,2 +1,1 @@
-# subha.github.io
-Educational Website
+# kumarjitray.github.io
